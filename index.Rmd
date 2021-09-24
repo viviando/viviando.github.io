@@ -17,7 +17,7 @@ One pound sign is a larger title
 ## Subsection
 
 Two pound signs is another heading but it looks the same?
-
+ 
 Note: To render a main homepage html file, we must title it with "index" as the first word
 
 <!-- Maybe the "#" makes a title? -->

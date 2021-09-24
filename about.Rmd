@@ -1,0 +1,15 @@
+---
+title: "About me page"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+<!-- # Note that the above output type is "html_document" instead of PDF, github document, or something else -->
+<!-- Also note that the typical "#" does not comment out things in an html document -->
+<!-- # toc option = table of contents -->
+<!-- In order to run the page, we must knit it -->
+
+# This has information about me
+
+Biography here, research interests, etc

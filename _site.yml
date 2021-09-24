@@ -1,0 +1,18 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg #link to all font awesome stuff - https://fontawesome.com/v5.15/icons?d=gallery&p=2
+      href: mailto:<vd2349@cumc.columbia.edu> #can be any email
+    - icon: fa-github fa-lg
+      href: http://github.com/viviando/
+output:
+  html_document:
+    theme: cerulean
+    
+
+# navbar is the navigation bar that appears after knitting index.rmd
+

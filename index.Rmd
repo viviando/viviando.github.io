@@ -1,0 +1,59 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+<!-- # Note that the above output type is "html_document" instead of PDF, github document, or something else -->
+<!-- Also note that the typical "#" does not comment out things in an html document -->
+<!-- # toc option = table of contents -->
+<!-- In order to run the page, we must knit it -->
+
+# This is Vivian's awesome website
+
+One pound sign is a larger title
+
+## Subsection
+
+Two pound signs is another heading but it looks the same?
+
+Note: To render a main homepage html file, we must title it with "index" as the first word
+
+<!-- Maybe the "#" makes a title? -->
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+
+## Linking to other websites
+
+Lets link to useful tools for datascience:
+
+<!-- Must specify that we need to go to internet via https:// -->
+* [Google](https://www.google.com/)
+* [P8105](https://p8105.com/)
+
+
+## Local image
+
+Image on repository that we want to see
+
+Should save the image in a folder within the github repository
+
+![](images/sunset.jpg)
+
+## Link to page within site 
+
+Use about page and reference to about page
+
+<!-- The link sits in same repository so we can just do about.html, which is filename in same folder -->
+
+[about me page](about.html)
+
+
+
+
+
+
+
+
+
